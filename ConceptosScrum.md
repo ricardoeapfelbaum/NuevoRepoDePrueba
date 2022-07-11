@@ -12,3 +12,7 @@
    - Sprint Backlog(elementos a trabajar durante el sprint.gestionado x development team)
    - Increment(tareas desarrolladas durante el sprint puestas a disposicion del usuario.aportando valor al producto)
 ## Cuales son los roles en scrum?
+   son los actores del scrum.son 3
+  - Product Owner(marcar el sprint goal.optimizar y maximizar el valor del producto)
+  - Scrum Master(facilitador en la gestion)
+  - Development Team(dasarrollar el producto.creara un incremento tras cada  sprint)
