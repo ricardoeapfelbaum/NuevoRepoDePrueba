@@ -16,3 +16,7 @@
   - Product Owner(marcar el sprint goal.optimizar y maximizar el valor del producto)
   - Scrum Master(facilitador en la gestion)
   - Development Team(dasarrollar el producto.creara un incremento tras cada  sprint)
+
+
+# probando branch dearrolladorRiqui
+
